@@ -892,7 +892,7 @@ app.get('/register', (req, res) => {
                         <div class="registration-card">
                             <div class="registration-header">
                                 <h1 class="animate__animated animate__fadeInDown">Create Your Account</h1>
-                                <p class="mb-0 animate__animated animate__fadeIn animate__delay-1s">Join us in just a few simple steps</p>
+                                <p class="mb-0 animate__animated animate__fadeIn animate__delay-1s">Join us  just a few simple steps</p>
                             </div>
                             <div class="registration-body">
                                 <form action="/register-step1" method="post">
